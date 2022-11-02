@@ -8,7 +8,8 @@ To avoid the confusion, we exclued experimental repos.
 
 ## How to use it
 
-To get all the code used in MTP project.  You can git clone this repo then pull the submodule
+To get all the code used in MTP project.  You can git clone this repo then pull the submodule.
+If you want to learn more about each piece, you definitely can dig into each github repository.
 
 ```
 
@@ -29,7 +30,7 @@ The MTP starts from open source project opensearch and cooperate with Children's
 <br>
 
 
-### Data Processing
+## Data Processing
 
 
 ```mermaid
@@ -68,7 +69,7 @@ The MTP starts from open source project opensearch and cooperate with Children's
 
 
 
-### APPS
+## APPS
 
 ```mermaid
   flowchart LR
@@ -96,7 +97,7 @@ The configuration settings manages GUI and versioning, connect to frontend throu
 
 
 
-### CICD
+## CICD
 
 MTP CICD's script at [ctos-cloud-devops](https://github.com/CBIIT/ctos-cloud-devops)
 
