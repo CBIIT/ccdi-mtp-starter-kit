@@ -1,0 +1,33 @@
+[submodule "mtp-config"]
+	path = mtp-config
+	url = https://github.com/CBIIT/mtp-config
+[submodule "mtp-ui"]
+	path = mtp-ui
+	url = https://github.com/CBIIT/mtp-ui
+[submodule "mtp-otg-frontend"]
+	path = mtp-otg-frontend
+	url = https://github.com/CBIIT/mtp-otg-frontend
+[submodule "mtp-frontend"]
+	path = mtp-frontend
+	url = https://github.com/CBIIT/mtp-frontend
+[submodule "mtp-data-validation"]
+	path = mtp-data-validation
+	url = https://github.com/CBIIT/mtp-data-validation
+[submodule "mtp-dataloader"]
+	path = mtp-dataloader
+	url = https://github.com/CBIIT/mtp-dataloader
+[submodule "mtp-backend"]
+	path = mtp-backend
+	url = https://github.com/CBIIT/mtp-backend
+[submodule "mtp-etl"]
+	path = mtp-etl
+	url = https://github.com/CBIIT/mtp-etl
+[submodule "mtp-ot-etl"]
+	path = mtp-ot-etl
+	url = https://github.com/CBIIT/mtp-ot-etl
+[submodule "ctos-cloud-devops"]
+	path = ctos-cloud-devops
+	url = https://github.com/CBIIT/ctos-cloud-devops
+[submodule "ccdi-maintenance-page"]
+	path = ccdi-maintenance-page
+	url = https://github.com/CBIIT/ccdi-maintenance-page
