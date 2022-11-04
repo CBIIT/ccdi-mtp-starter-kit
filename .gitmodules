@@ -1,6 +1,9 @@
 [submodule "mtp-config"]
 	path = mtp-config
 	url = https://github.com/CBIIT/mtp-config
+[submodule "mtp-ui"]
+	path = mtp-ui
+	url = https://github.com/CBIIT/mtp-ui
 [submodule "mtp-otg-frontend"]
 	path = mtp-otg-frontend
 	url = https://github.com/CBIIT/mtp-otg-frontend
