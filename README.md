@@ -77,6 +77,7 @@ The MTP starts from open source project opensearch and cooperate with Children's
        dbOS[(opensearch)]-->bk("mtp-backend")
        bk("mtp-backend")-->fe("mtp-front-end")
        config("mtp-config")-->fe("mtp-front-end")
+       dv("mtp-visual-testing")-->fe("mtp-front-end")
 
 ```
 

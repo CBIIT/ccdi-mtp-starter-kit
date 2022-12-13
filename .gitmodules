@@ -31,3 +31,6 @@
 [submodule "ccdi-maintenance-page"]
 	path = ccdi-maintenance-page
 	url = https://github.com/CBIIT/ccdi-maintenance-page
+[submodule "mtp-visual-testing"]
+	path = mtp-visual-testing
+	url = https://github.com/CBIIT/mtp-visual-testing.git
