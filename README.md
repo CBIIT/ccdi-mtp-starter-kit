@@ -1,4 +1,4 @@
-# MTP-STARTER-KIT
+# CCDI-MTP-STARTER-KIT
 
 This repo links all "ESSENTIAL" github repositories that used for building Molecular Targets Platform APP [MTP](https://moleculartargets.ccdi.cancer.gov/). 
 The repositories as a submodule here are the core part of mtp programming ecosystem which covers data loading, data validation, configuration settings, devOps, backend, front-end, etl and etc. 
