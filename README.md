@@ -83,11 +83,11 @@ The MTP starts from open source project opensearch and cooperate with Children's
 
 ```
 
-MTP Backend script at [mtp-backend](https://github.com/CBIIT/mtp-backend)@ main branch.
+MTP Backend script at [mtp-backend](https://github.com/CBIIT/mtp-backend)
 
-MTP Front-end script at [mtp-front-end](https://github.com/CBIIT/mtp-frontend)@ 1.1.0 branch.
+MTP Front-end script at [mtp-front-end](https://github.com/CBIIT/mtp-frontend)
 
-MTP configuration script at  [mtp-front-end](https://github.com/CBIIT/mtp-config)@ prod branch.
+MTP configuration script at  [mtp-front-end](https://github.com/CBIIT/mtp-config)
 The configuration settings manages GUI and versioning, connect to frontend through the API HTTP Call. 
 
 <br>
@@ -98,10 +98,30 @@ The configuration settings manages GUI and versioning, connect to frontend throu
 
 <br>
 
+## Repo Summary:
 
+<b>ccdi-maintenance-page:</b> MTP Maintenance Page
 
-## CICD
+<b>ccdi-mtp-openpedcan-api:</b> CHoP R Server — Provides data visualization for Gene Expression & Differential Expression.
 
-MTP CICD's script at [ctos-cloud-devops](https://github.com/CBIIT/ctos-cloud-devops)
+<b>ccdi-mtp-prefect:</b> CI/CD Pipeline for data downloading and more, built on Prefect.
+
+<b>ctos-cloud-devops:</b> CI/CD Pipeline
+
+<b>mtp-backend:</b> MTP Backend Service 
+
+<b>mtp-config:</b> MTP Configuration Service
+
+<b>mtp-data-validation:</b> QA's scripts repository for data validation
+
+<b>mtp-dataloader:</b> Data Loader
+
+<b>mtp-etl:</b> MTP Backend Service
+
+<b>mtp-frontend:</b> Old MTP Frontend Service
+
+<b>mtp-ot-etl:</b> MTP ETL
+
+<b>mtp-ui:</b> Current MTP Frontend Repository
 
 
