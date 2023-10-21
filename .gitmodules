@@ -34,3 +34,9 @@
 [submodule "mtp-visual-testing"]
 	path = mtp-visual-testing
 	url = https://github.com/CBIIT/mtp-visual-testing.git
+[submodule "ccdi-mtp-openpedcan-api"]
+	path = ccdi-mtp-openpedcan-api
+	url = https://github.com/CBIIT/ccdi-mtp-openpedcan-api.git
+[submodule "ccdi-mtp-prefect"]
+	path = ccdi-mtp-prefect
+	url = https://github.com/CBIIT/ccdi-mtp-prefect.git
