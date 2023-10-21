@@ -74,9 +74,9 @@ The MTP starts from open source project opensearch and cooperate with Children's
 ```mermaid
   flowchart LR
        dbCH[(clickhouse)]-->bk("mtp-backend")
-       dbCH[(ChoP_RDS)]-->bk("ccdi-mtp-openpedcan-api")
+       dbRDS[(ChoP_RDS)]-->ChoP_bk("ccdi-mtp-openpedcan-api")
        dbOS[(opensearch)]-->bk("mtp-backend")
-       bk("ccdi-mtp-openpedcan-api")-->fe("mtp-front-end")
+       ChoP_bk("ccdi-mtp-openpedcan-api")-->fe("mtp-front-end")
        bk("mtp-backend")-->fe("mtp-front-end")
        config("mtp-config")-->fe("mtp-front-end")
        dv("mtp-visual-testing")-->fe("mtp-front-end")
